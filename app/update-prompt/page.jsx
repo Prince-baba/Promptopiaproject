@@ -79,4 +79,4 @@ const UpdatePromptWithSuspense = () => (
   </Suspense>
 );
 
-export default UpdatePromptWithSuspense;
+export default EditPrompt;
